@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    font-family: calibri, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: gray;
+}
+
+iframe {
+    border: 3px solid gray;
+    border-radius: 15px;
+}
